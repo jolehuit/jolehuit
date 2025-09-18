@@ -4,32 +4,20 @@
 
 ---
 
-## 🚀 Projects  
+## 🚀 Active Projects  
 
 - **[AmICompat](https://github.com/jolehuit/amicompat)**  
   MCP tool analyzing CSS & HTML for instant Web Baseline compatibility insights.  
   *Stack: TypeScript, FastMCP*  
 
-- **Smone**  
-  Turns a CSV/Excel file + business prompt into ready-to-use Power BI dashboards
-  *Stack: FastAPI (Python), Next.js, GPT-4.1*  
+- **[Smone-CLI](https://github.com/jolehuit/smone-cli)**
+  Local CLI that turns a CSV/Excel file + business prompt into ready-to-use Power BI dashboards
+  *Stack: FastAPI (Python), Next.js, GPT-oss-20b
 
-- **Nomad**  
+- **Nomad (Private Repo)**  
   Battery rental system with automated payments, deposits, and real-time notifications.  
-  *Stack: SvelteKit, TypeScript, Stripe, Supabase*  
-
-- **Miam!**  
-  Find top-rated restaurants nearby based on cuisine & user reviews.  
-  *Stack: SvelteKit, TypeScript*  
-
-- **Weazic**  
-  AI agent pipeline recommending Spotify playlists based on weather, mood & taste.  
-  *Stack: SvelteKit, LangChain.js, GPT-4o (legacy)*  
-
-- **Ma rue est-elle safe ?**  
-  Web app to view Paris street safety (traffic, crimes, lighting).  
-  *Stack: Node.js, Puppeteer*  
-
+  *Stack: SvelteKit, TypeScript, Stripe, Supabase*
+  
 ---
 
 ## 💼 Experience  
