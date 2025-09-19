@@ -11,9 +11,9 @@
   *Stack: TypeScript, FastMCP*  
 
 - **[Smone-CLI](https://github.com/jolehuit/smone-cli)**
-  Local CLI that turns a CSV/Excel file + business prompt into ready-to-use Power BI dashboards
-  *Stack: FastAPI (Python), Next.js, GPT-oss-20b
-
+  Local CLI that turns a CSV/Excel file + business prompt into ready-to-use Power BI dashboards with GPT Local models.
+  *Stack: FastAPI (Python), Next.js, GPT-oss-20b*
+  
 - **Nomad (Private Repo)**  
   Battery rental system with automated payments, deposits, and real-time notifications.  
   *Stack: SvelteKit, TypeScript, Stripe, Supabase*
