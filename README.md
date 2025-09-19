@@ -7,15 +7,18 @@
 ## 🚀 Active Projects  
 
 - **[AmICompat](https://github.com/jolehuit/amicompat)**  
-  MCP tool analyzing CSS & HTML for instant Web Baseline compatibility insights.  
+  MCP tool analyzing CSS & HTML for instant Web Baseline compatibility insights.
+  
   *Stack: TypeScript, FastMCP*  
 
 - **[Smone-CLI](https://github.com/jolehuit/smone-cli)**
   Local CLI that turns a CSV/Excel file + business prompt into ready-to-use Power BI dashboards with GPT Local models.
+  
   *Stack: FastAPI (Python), Next.js, GPT-oss-20b*
   
 - **Nomad (Private Repo)**  
-  Battery rental system with automated payments, deposits, and real-time notifications.  
+  Battery rental system with automated payments, deposits, and real-time notifications.
+    
   *Stack: SvelteKit, TypeScript, Stripe, Supabase*
   
 ---
