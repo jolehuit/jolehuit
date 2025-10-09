@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Jo
-
-**Ethics Digital Project Officer @ Sodexo** | **AI Business Automation & Data Engineering** | **MIAGE Master Student @ Université Paris Cité**
-
----
 
 ## 🚀 Active Projects  
 
